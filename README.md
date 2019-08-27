@@ -1,3 +1,5 @@
+![project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
+
 # Discovery agent for docker exposed ports
 
 A simple in go written agent that exposes a minimal REST api so a container can find the exposed port for a container port. The agent is just a workaround for the problem mentioned in https://github.com/docker/docker/issues/3778
